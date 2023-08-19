@@ -21,7 +21,7 @@ h4{
     border-radius: 7px;
 }
 .top-banner,.about-section{
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -30,4 +30,19 @@ h4{
 .about-image{
     width: 45%;
 }
-.
+.full-stack{
+    margin: 40px;
+    padding: 20px;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 5px;
+    border-left: 7px solid red ;
+    
+    }
+.baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,rgb(52, 52, 128)); 
+    border-image-slice: 1;}
+    footer{
+        text-align: center;
+        font-size: 10px;
+    }
